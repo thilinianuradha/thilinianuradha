@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilinianuradha&label=Profile%20views&color=0e75b6&style=flat" alt="thilinianuradha" /> </p>
 
-- 👩‍🎓 I'm an undergrauate at **Sabaragamuwa UNiversity of Sri Lanka**
+- 👩‍🎓 I'm an undergrauate at [Sabaragamuwa UNiversity of Sri Lanka] (https://www.sab.ac.lk/)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS and ASP.NET**
 
